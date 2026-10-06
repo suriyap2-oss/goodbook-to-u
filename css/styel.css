@@ -1,0 +1,28 @@
+
+.logo-font {
+  font-family: "Ballet", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+   color: #899670
+}
+
+h2 {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #899670;
+}
+
+.ibm-plex-sans-thai-medium {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+p {
+  font-family: "Thasadith", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   color: #899670
+}
