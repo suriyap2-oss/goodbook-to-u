@@ -7,12 +7,12 @@
    color: #899670
 }
 
-h2 {
+
   font-family: "IBM Plex Sans Thai", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #899670;
-}
+
 
 .ibm-plex-sans-thai-medium {
   font-family: "IBM Plex Sans Thai", sans-serif;
@@ -26,3 +26,29 @@ p {
   font-style: normal;
    color: #899670
 }
+
+
+h1 {
+  font-family: "League Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+   color: #899670
+}
+
+p.thasadith-regular {
+  font-family: "Thasadith", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #899670
+}
+
+
+
+
+
